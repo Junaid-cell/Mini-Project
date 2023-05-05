@@ -1,2 +1,2 @@
 # Mini-Project
-This file contains description of the mini project.
+This repository contains description of the mini project.
